@@ -4,6 +4,8 @@ This program is a game that plays liar's Dice with the user. The program will ma
 
 I did this because I was playing a game of Liar's Dice with my friends and I believed that it would be a simple project. It was a little less simple than I first expected, but I'm proud of what I've got here so far, and I know kotlin now. In the future I hope to make the bot players a little smarter and lifelike, right now I think that they feel a little dead. 
 
+10/4/21 EDIT: I've also just learned that the probability calculation I use is off, so that also needs fixing.
+
 A demonstration of the software is [here](https://youtu.be/7YKWskzmFEsw).
 
 # Development Environment
